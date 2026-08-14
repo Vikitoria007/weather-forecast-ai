@@ -27,7 +27,7 @@ python SuperWeatherAI.py
 
 ## 📸 Интерфейс
 
-![Скриншот](https://raw.githubusercontent.com/Vikitoria007/weather-app/main/screenshot_ai.png)
+![Скриншот](https://raw.githubusercontent.com/Vikitoria007/weather-forecast-ai/main/screenshot_ai.png)
 
 ## 🧪 Пример работы
 
